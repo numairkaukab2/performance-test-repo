@@ -8,7 +8,7 @@
                 userRemoteConfigs: [
                         [
                                 url: "https://github.com/numairkaukab2/performance-test-repo.git",
-                                credentialsId: "numair-github"
+                                credentialsId: "numair"
                         ]
                 ],
                 branches: [[name: "main"]]
